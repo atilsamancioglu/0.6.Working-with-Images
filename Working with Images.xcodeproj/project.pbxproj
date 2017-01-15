@@ -12,6 +12,8 @@
 		FC1952E21DF5CE9300C13EBC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1952E01DF5CE9300C13EBC /* Main.storyboard */; };
 		FC1952E41DF5CE9300C13EBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC1952E31DF5CE9300C13EBC /* Assets.xcassets */; };
 		FC1952E71DF5CE9300C13EBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC1952E51DF5CE9300C13EBC /* LaunchScreen.storyboard */; };
+		FC1952F01DF5CF4000C13EBC /* cartman.png in Resources */ = {isa = PBXBuildFile; fileRef = FC1952EE1DF5CF4000C13EBC /* cartman.png */; };
+		FC1952F11DF5CF4000C13EBC /* kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = FC1952EF1DF5CF4000C13EBC /* kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		FC1952E31DF5CE9300C13EBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC1952E61DF5CE9300C13EBC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC1952E81DF5CE9300C13EBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC1952EE1DF5CF4000C13EBC /* cartman.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cartman.png; sourceTree = "<group>"; };
+		FC1952EF1DF5CF4000C13EBC /* kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				FC1952DC1DF5CE9300C13EBC /* AppDelegate.swift */,
 				FC1952DE1DF5CE9300C13EBC /* ViewController.swift */,
 				FC1952E01DF5CE9300C13EBC /* Main.storyboard */,
+				FC1952EE1DF5CF4000C13EBC /* cartman.png */,
+				FC1952EF1DF5CF4000C13EBC /* kenny.png */,
 				FC1952E31DF5CE9300C13EBC /* Assets.xcassets */,
 				FC1952E51DF5CE9300C13EBC /* LaunchScreen.storyboard */,
 				FC1952E81DF5CE9300C13EBC /* Info.plist */,
@@ -124,8 +130,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC1952F01DF5CF4000C13EBC /* cartman.png in Resources */,
 				FC1952E71DF5CE9300C13EBC /* LaunchScreen.storyboard in Resources */,
 				FC1952E41DF5CE9300C13EBC /* Assets.xcassets in Resources */,
+				FC1952F11DF5CF4000C13EBC /* kenny.png in Resources */,
 				FC1952E21DF5CE9300C13EBC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
